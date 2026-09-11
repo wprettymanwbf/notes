@@ -119,10 +119,12 @@ Date: August __, 2026
 **Agreed to on August, 2026:**  
 Highland Computer Forms, Inc.
 
+**Authorized Signatory 1**  
 By: Rob Jones  
-Title: Vice President
+Title: Vice President  
 Date: August __, 2026
 
+**Authorized Signatory 2**  
 By: Lynne Patton  
-Title: On behalf of Steve Patton's estate  
+Capacity: On behalf of Steve Patton's estate  
 Date: August __, 2026

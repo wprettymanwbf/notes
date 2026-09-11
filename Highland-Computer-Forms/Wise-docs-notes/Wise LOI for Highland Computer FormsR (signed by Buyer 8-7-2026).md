@@ -67,7 +67,7 @@ The following paragraphs of this letter (the "Binding Provisions") are the legal
 
 7. **Conduct of Business**
 
-   During the period from the Signing Date until the Termination Date, the Company shall notify Buyer immediately of (a) any conduct of the Company outside of the ordinary course of business and of any extraordinary transactions proposed to be engaged in by the Company, (b) any payment or commitment to make any material capital expenditures by the Company, (c) any knowledge of or anticipation of an expected change in customer revenue or relationship, and (d) maintain roll paper inventory level at the lowest possible level not to exceed.
+   During the period from the Signing Date until the Termination Date, the Company shall notify Buyer immediately of (a) any conduct of the Company outside of the ordinary course of business and of any extraordinary transactions proposed to be engaged in by the Company, (b) any payment or commitment to make any material capital expenditures by the Company, (c) any knowledge of or anticipation of an expected change in customer revenue or relationship, and (d) maintaining roll paper inventory level at the lowest possible level, not to exceed current levels.
 
 8. **Confidential Information**
 
@@ -79,31 +79,31 @@ The following paragraphs of this letter (the "Binding Provisions") are the legal
 
 10. **Cost and Expenses**
 
-    Buyer and the Company will be responsible for and bear all of their respective costs and expenses (including any broker's or finder's fees and the expenses of its representatives) incurred at any time in connection with pursuing or consummating the Possible Acquisition. It is understood that any fee that might be due Corporate Development Associates shall be the sole responsibility of the Company and will be paid at closing.
+   Buyer and the Company will be responsible for and bear all of their respective costs and expenses (including any broker's or finder's fees and the expenses of its representatives) incurred at any time in connection with pursuing or consummating the Possible Acquisition. It is understood that any fee that might be due Corporate Development Associates shall be the sole responsibility of the Company and will be paid at closing.
 
 11. **Cooperation**
 
-    During the period from the Signing Date until the Termination Date, Buyer and the Company will cooperate with each other and proceed, as promptly as is reasonably practical, to seek to obtain all necessary consents and approvals from lenders, landlords, and other third parties, and to endeavor to comply with all other legal or contractual requirements for or preconditions to the execution and consummation of the Purchase Agreement.
+   During the period from the Signing Date until the Termination Date, Buyer and the Company will cooperate with each other and proceed, as promptly as is reasonably practical, to seek to obtain all necessary consents and approvals from lenders, landlords, and other third parties, and to endeavor to comply with all other legal or contractual requirements for or preconditions to the execution and consummation of the Purchase Agreement.
 
 12. **Entire Agreement; Amendment or Modification**
 
-    The Binding Provisions contained in Paragraphs 5-16 constitute the entire agreement between the Parties and supersede all prior oral or written agreements, understandings, representations and warranties and courses of conduct and dealing between the Parties on the subject matter thereof. Except as otherwise provided herein, the Binding Provisions may be amended or modified only by a writing executed by all of the Parties.
+   The Binding Provisions contained in Paragraphs 5-16 constitute the entire agreement between the Parties and supersede all prior oral or written agreements, understandings, representations and warranties and courses of conduct and dealing between the Parties on the subject matter thereof. Except as otherwise provided herein, the Binding Provisions may be amended or modified only by a writing executed by all of the Parties.
 
 13. **Governing Law**
 
-    The Binding Provisions will be governed by and construed under the laws of the State of Georgia without regard to conflicts-of-laws principles.
+   The Binding Provisions will be governed by and construed under the laws of the State of Georgia without regard to conflicts-of-laws principles.
 
 14. **Termination**
 
-    The Binding Provisions may be terminated earlier upon written notice by either Party to the other Party unilaterally, for any reason or no reason, with or without cause, at any time. Upon termination of the Binding Provisions, the Parties will have no further obligations hereunder, except with respect to Paragraphs 8 and 10 above.
+   The Binding Provisions may be terminated earlier upon written notice by either Party to the other Party unilaterally, for any reason or no reason, with or without cause, at any time. Upon termination of the Binding Provisions, the Parties will have no further obligations hereunder, except with respect to Paragraphs 8 and 10 above.
 
 15. **Counterparts**
 
-    This letter may be executed in one or more counterparts, each of which will be deemed to be an original of this letter and all of which, when taken together, will be deemed to constitute one and the same letter.
+   This letter may be executed in one or more counterparts, each of which will be deemed to be an original of this letter and all of which, when taken together, will be deemed to constitute one and the same letter.
 
 16. **Binding Effect**
 
-    The provisions of Paragraphs 1 through 4 of this letter are intended only as an expression of intent on behalf of Buyer, are not intended to be legally binding on Buyer or the Company and are expressly subject to the execution of an appropriate Purchase Agreement. Moreover, except as expressly provided in Paragraphs 5 through 16 (or as expressly provided in any binding written agreement that the Parties may enter into in the future), no past or future action, course of conduct or failure to act relating to the Possible Acquisition, or relating to the negotiation of the terms of the Possible Acquisition or any Purchase Agreement, will give rise to or serve as a basis for any obligation or other liability on the part of Buyer or the Company.
+   The provisions of Paragraphs 1 through 4 of this letter are intended only as an expression of intent on behalf of Buyer, are not intended to be legally binding on Buyer or the Company and are expressly subject to the execution of an appropriate Purchase Agreement. Moreover, except as expressly provided in Paragraphs 5 through 16 (or as expressly provided in any binding written agreement that the Parties may enter into in the future), no past or future action, course of conduct or failure to act relating to the Possible Acquisition, or relating to the negotiation of the terms of the Possible Acquisition or any Purchase Agreement, will give rise to or serve as a basis for any obligation or other liability on the part of Buyer or the Company.
 
 If you are in basic agreement with the foregoing, please sign and return a scanned PDF copy of this letter via email, which thereupon will constitute our understanding with respect to its subject matter. If a fully executed copy of this letter is not returned to us by 5:00 P.M. EST on Friday, August 14, 2026, this expression of interest is hereby withdrawn.
 
@@ -112,6 +112,7 @@ Wise Business Forms, Inc.
 
 By: William D. Pretty  
 Title: President & CEO
+Date: August __, 2026
 
 ---
 
@@ -120,6 +121,8 @@ Highland Computer Forms, Inc.
 
 By: Rob Jones  
 Title: Vice President
+Date: August __, 2026
 
 By: Lynne Patton  
-(on behalf of Steve Patton's estate)
+Title: On behalf of Steve Patton's estate  
+Date: August __, 2026

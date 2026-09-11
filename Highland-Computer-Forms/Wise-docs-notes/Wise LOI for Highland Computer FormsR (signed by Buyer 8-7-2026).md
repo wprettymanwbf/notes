@@ -110,6 +110,7 @@ If you are in basic agreement with the foregoing, please sign and return a scann
 **Very truly yours,**  
 Wise Business Forms, Inc.
 
+**Buyer Signatory**  
 By: __________________________  
 Printed Name: William D. Pretty  
 Title: President & CEO
@@ -120,13 +121,13 @@ Date: August __, 2026
 **Agreed to on August, 2026:**  
 Highland Computer Forms, Inc.
 
-**Seller Signatory 1**  
+**Seller Signatory 1 (Highland Computer Forms, Inc.)**  
 By: __________________________  
 Printed Name: Rob Jones  
 Title: Vice President  
 Date: August __, 2026
 
-**Seller Signatory 2**  
+**Seller Signatory 2 (Highland Computer Forms, Inc.)**  
 By: __________________________  
 Printed Name: Lynne Patton  
 Title: Authorized Representative  

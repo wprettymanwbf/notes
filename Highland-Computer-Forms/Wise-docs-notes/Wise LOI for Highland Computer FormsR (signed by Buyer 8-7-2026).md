@@ -107,22 +107,12 @@ The following paragraphs of this letter (the "Binding Provisions") are the legal
 
 If you are in basic agreement with the foregoing, please sign and return a scanned PDF copy of this letter via email, which thereupon will constitute our understanding with respect to its subject matter. If a fully executed copy of this letter is not returned to us by 5:00 P.M. EST on Friday, August 14, 2026, this expression of interest is hereby withdrawn.
 
-**Very truly yours,**  
-Wise Business Forms, Inc.
-
-By:  
-William D. Pretty  
-President & CEO
-
----
-
-**Agreed to on August, 2026:**  
-Highland Computer Forms, Inc.
-
-By:  
-Rob Jones  
-Vice President
-
-By:  
-Lynne Patton  
-(on behalf of Steve Patton's estate)
+| Very truly yours, | Agreed to on August 7, 2026: |
+| --- | --- |
+| Wise Business Forms, Inc. | Highland Computer Forms, Inc. |
+| By: | By: |
+| William D. Pretty | Rob Jones |
+| President & CEO | Vice President |
+|  | By: |
+|  | Lynne Patton |
+|  | (on behalf of Steve Patton's estate) |

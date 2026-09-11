@@ -126,5 +126,6 @@ Date: August __, 2026
 
 **Authorized Signatory 2**  
 By: Lynne Patton  
-Capacity: On behalf of Steve Patton's estate  
+Title: Authorized Representative  
+Note: On behalf of Steve Patton's estate  
 Date: August __, 2026

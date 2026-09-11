@@ -110,9 +110,9 @@ If you are in basic agreement with the foregoing, please sign and return a scann
 | Very truly yours, | Agreed to on August 7, 2026: |
 | --- | --- |
 | Wise Business Forms, Inc. | Highland Computer Forms, Inc. |
-| By: | By: |
+| By: | By (Seller Signatory 1): |
 | William D. Pretty | Rob Jones |
 | President & CEO | Vice President |
-|  | By: |
+|  | By (Seller Signatory 2): |
 |  | Lynne Patton |
 |  | (on behalf of Steve Patton's estate) |

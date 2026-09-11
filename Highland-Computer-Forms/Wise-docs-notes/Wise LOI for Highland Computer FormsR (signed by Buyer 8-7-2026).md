@@ -12,7 +12,7 @@ HIGHLAND COMPUTER FORMS, INC.
 1025 W. Main Street,  
 Hillsboro, OH 45133
 
-## Proposal to Purchase the Business and Certain Assets of Highland Computer Forms, Inc.
+## Proposal to Purchase the Business and certain Assets of Highland Computer Forms, Inc.
 
 Dear Rob & Lynne,
 
@@ -110,26 +110,18 @@ If you are in basic agreement with the foregoing, please sign and return a scann
 **Very truly yours,**  
 Wise Business Forms, Inc.
 
-**Buyer Signatory**  
-By: __________________________  
-Printed Name: William D. Pretty  
-Title: President & CEO
-Date: August __, 2026
+By:  
+William D. Pretty  
+President & CEO
 
 ---
 
-**Agreed to in August 2026:**  
+**Agreed to on August, 2026:**  
 Highland Computer Forms, Inc.
 
-**Seller Signatory — Vice President**  
-By: __________________________  
-Printed Name: Rob Jones  
-Title: Vice President  
-Date: August __, 2026
+By:  
+Rob Jones  
+Vice President
 
-**Seller Signatory — Estate Representative**  
-By: __________________________  
-Printed Name: Lynne Patton  
-Title: Authorized Representative  
-Note: On behalf of Steve Patton's estate  
-Date: August __, 2026
+Lynne Patton  
+(on behalf of Steve Patton's estate)

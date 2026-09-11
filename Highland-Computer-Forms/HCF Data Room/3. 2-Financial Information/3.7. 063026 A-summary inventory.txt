@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------------------------------------------------
+HCINV400     7/01/26  BROOKE                  Highland Computer Forms - Angola                                             Page:   1
+INV503AR     9:50:54  BHA0                   Inventory by General Ledger# Summary
+Selected Plants:  ANGOL
+------------------------------------------------------------------------------------------------------------------------------------
+GL#      General Ledger Description     Qty on Hand Qty Availbl Qty on Mfg Qty on Order Qty Planned         Price          Cost
+0000000
+0012900  WORK IN PROCESS
+0013000  INVENTORY-CARBONLESS              167,607     167,607                  54,000       6,617                    214,607.03
+0013100  INVENTORY-BOND PAPER              238,310     238,310                  50,000      86,396                    168,183.84
+0013150  INVENTORY-LABEL MATERIAL              373         373                                 132                     22,787.60
+0013170  INVENTORY-INTEGRATED MATERIAL
+0013200  INVENTORY-CARBON
+0013300  INVENTORY-CARTONS                  54,380      54,380                   4,000       4,250                     50,173.55
+0013400  INVENTORY-F/G                       2,628       2,472       1,330                             119,949.13      95,959.25
+0013410  INVENTORY-LABELS                        6           6                                             482.40         385.92
+0013450  INVENTORY-F/G-B.A.R.
+0013460  INVENTORY-F/G-B.U.F.                  419         417
+0013900  INVENTORY-COPY PAPER
+0013950  INVENTORY-ENVELOPES
+Grand Totals:                              463,723     463,565       1,330     108,000      97,395     120,431.53     552,097.19

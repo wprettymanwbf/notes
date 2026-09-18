@@ -4,6 +4,8 @@ Four-person executive team for a ~$50M commercial printing operation with five p
 
 **Structure:** CEO, with VP of Sales, VP of Operations, and VP of Finance reporting directly. Five Plant General Managers report to the VP of Operations.
 
+**Standalone versions** of each role, for sending to candidates or recruiters, are in [`roles/`](./roles/): [CEO](./roles/Wise%20-%20CEO.md) · [VP of Sales](./roles/Wise%20-%20VP%20of%20Sales.md) · [VP of Operations](./roles/Wise%20-%20VP%20of%20Operations.md) · [VP of Finance](./roles/Wise%20-%20VP%20of%20Finance.md). This document is the source of truth; if the two diverge, fix it here first.
+
 ---
 
 ## Scope Boundaries

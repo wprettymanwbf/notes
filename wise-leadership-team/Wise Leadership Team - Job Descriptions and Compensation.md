@@ -2,9 +2,9 @@
 
 Four-person executive team for a ~$50M commercial printing operation with five plants (business forms, labels, packaging).
 
-**Structure:** CEO, with VP of Sales, VP of Operations, and VP of Finance reporting directly. Five Plant General Managers report to the VP of Operations.
+**Structure:** CEO, with VP of Sales, VP of Operations, and VP of Finance reporting directly. Five Plant General Managers report to the VP of Operations — a separate tier below the executive team, defined here because the VP/GM boundary is where this structure succeeds or fails.
 
-**Standalone versions** of each role, for sending to candidates or recruiters, are in [`roles/`](./roles/): [CEO](./roles/Wise%20-%20CEO.md) · [VP of Sales](./roles/Wise%20-%20VP%20of%20Sales.md) · [VP of Operations](./roles/Wise%20-%20VP%20of%20Operations.md) · [VP of Finance](./roles/Wise%20-%20VP%20of%20Finance.md). This document is the source of truth; if the two diverge, fix it here first.
+**Standalone versions** of each role, for sending to candidates or recruiters, are in [`roles/`](./roles/): [CEO](./roles/Wise%20-%20CEO.md) · [VP of Sales](./roles/Wise%20-%20VP%20of%20Sales.md) · [VP of Operations](./roles/Wise%20-%20VP%20of%20Operations.md) · [VP of Finance](./roles/Wise%20-%20VP%20of%20Finance.md) · [Plant General Manager](./roles/Wise%20-%20Plant%20General%20Manager.md). This document is the source of truth; if the two diverge, fix it here first.
 
 ---
 
@@ -20,7 +20,9 @@ Three functions cause most org-chart arguments in printing. Settled here up fron
 | Margin policy / price-list governance | **VP Finance** | Maintains cost model and floors; reports realization. |
 | Pricing exceptions beyond policy | **CEO** | Defined threshold, not case-by-case negotiation. |
 
-Nobody is paid on a measure they don't control. Every role carries some EBITDA exposure so they row together.
+Nobody is paid on a measure they don't control. Every executive role carries some EBITDA exposure so they row together.
+
+**IT** is assigned to VP Finance here, which is the most common placement at this revenue. It is a genuine judgment call in printing, because the MIS/ERP is simultaneously the accounting system and the manufacturing workflow — order entry, estimating, scheduling, job tickets, prepress, EDI. Recommended split: Finance owns infrastructure, security, vendor management, the IT capital plan, and financial modules; **Operations holds priority-setting authority for operational modules** — order-entry automation, estimating, scheduling, prepress workflow, web-to-print, EDI. Put that in writing rather than leaving it to goodwill. See the note at the end of this document.
 
 ---
 
@@ -156,6 +158,59 @@ Lean/TPS is Wise's operating system, not a program the VP sponsors. Deploying it
 
 ---
 
+## Plant General Manager
+
+*Five positions, one per plant. Reports to the VP of Operations — a tier below the executive team.*
+
+**Purpose:** Own the daily execution, results, and people of one plant.
+
+**Reports to:** VP of Operations
+**Direct reports:** Production supervisors, plant scheduling, plant customer service, maintenance, shipping, plant quality and safety
+
+### The VP / GM boundary
+
+The VP creates leverage through five experienced GMs rather than becoming a sixth plant manager. This division is the operating model:
+
+| VP of Operations | Plant General Manager |
+|---|---|
+| Owns the Wise manufacturing system | Owns daily plant execution |
+| Owns enterprise manufacturing standards | Executes and improves standards in the plant |
+| Develops and holds GMs accountable | Develops supervisors and operators |
+| Owns manufacturing strategy and network capability | Owns local results and execution |
+| Owns enterprise capacity and major capital strategy | Manages local capacity and identifies needs |
+| Owns the Lean system and deployment approach | Leads Lean daily within the plant |
+| Benchmarks plants and spreads best practices | Improves the plant and contributes best practices |
+| Leads systemic problem solving across plants | Solves daily operating problems, escalates systemic ones |
+| Builds label/packaging manufacturing capability | Implements and sustains new capabilities locally |
+
+**Owns**
+- Safety of everyone in the building — first, not fifth
+- Daily production execution: schedule attainment, on-time delivery, lead time
+- Plant contribution and controllable cost vs. budget
+- Local capacity management, staffing levels, and overtime
+- Supervisor and operator development, cross-training, and retention
+- Daily Lean execution: standard work adherence, visual management, shift problem solving
+- The plant's customer service team — order accuracy and responsiveness on local accounts
+- Equipment condition, preventive maintenance, and uptime
+- Local implementation of new label/packaging capability transferred into the plant
+
+**Does not own**
+- Enterprise manufacturing standards — executes and improves them, does not set them
+- Pricing, margin policy, or which plant makes what
+- Major capital approval — recommends and justifies; VP Operations and CEO decide
+
+**Measures**
+- Recordable safety incidents and near-miss closure
+- Plant on-time delivery and manufacturing lead time
+- Plant throughput / revenue per manufacturing day vs. baseline
+- Makeready time, press uptime, labor productivity
+- Waste, scrap, rework, and customer quality complaints
+- Controllable cost vs. budget
+- Standard work adherence and plant Lean maturity
+- Supervisor bench, operator cross-training coverage, and turnover
+
+---
+
 # Compensation Plans
 
 ## Benchmark basis
@@ -186,8 +241,11 @@ CEO pay scales sharply with revenue: median total compensation was $315,500 at $
 | VP Operations | $190,000–240,000 | 30% | 60% | $247,000–312,000 |
 | VP Sales | $170,000–215,000 | 35% | 70% | $230,000–290,000 |
 | VP Finance | $180,000–225,000 | 25% | 50% | $225,000–281,000 |
+| Plant General Manager | $115,000–160,000 | 20% | 40% | $138,000–192,000 |
 
-Position within range by experience, prior scale, and geography. Long-term incentive is separate and addressed below.
+Position within range by experience, prior scale, and geography. Plant GM range should flex by plant: the largest plant's GM near the top, the smallest near the bottom. Long-term incentive is separate and addressed below.
+
+Plant GM is a different benchmark tier and is not covered by the executive survey above. Published plant-manager guides put base pay at roughly $100–130K for small plants and $125–160K for mid-size, with standard target bonuses of 15–30% tied to safety, delivery, equipment effectiveness, and plant P&L. Five plants averaging ~$10M revenue each sit in the small-to-mid band.
 
 ## Bonus scorecards
 
@@ -233,11 +291,25 @@ Lean sits at 15% deliberately, not higher. The 40% operating-performance line *i
 | Close timeliness, forecast accuracy, clean controls | 20% |
 | Margin and capital governance | 15% |
 
+**Plant General Manager — target 20% of base**
+
+| Measure | Weight |
+|---|---|
+| Safety — recordable incidents | 20% |
+| Plant on-time delivery and lead time | 25% |
+| Plant throughput / revenue per manufacturing day | 25% |
+| Controllable cost vs. budget, waste and quality | 20% |
+| Standard work adherence, Lean execution, people development | 10% |
+
+The GM carries controllable cost rather than EBITDA, because the plant does not control price or mix. Safety leads the scorecard deliberately: a plant leader paid on throughput without a safety weight is being paid to take risks.
+
 ## Long-term incentive
 
 About half of US private companies have no formal long-term plan, which is the most common reason a good operator leaves for the acquirer down the road. Recommended: a three-year phantom equity or cash-settled appreciation plan for all four roles, sized at roughly 0.5–2.0% of equity value for the VPs and 3–8% for the CEO, vesting on a rolling three-year cycle and settling on a defined valuation formula or on a liquidity event.
 
 Tie 60% to cumulative EBITDA and return on invested capital, per the Ennis structure. If phantom equity is unworkable, a three-year cash LTI pool funded on cumulative EBITDA above a threshold accomplishes most of it.
+
+Plant GMs are not normally in a phantom equity plan at this size. If retention at that tier is a concern — and with an Anderson GM to hire and four incumbents to keep through an ownership change, it should be — use a separate multi-year retention award or a small cash LTI pool rather than diluting the executive plan.
 
 ## Plan design notes
 
@@ -249,9 +321,26 @@ Tie 60% to cumulative EBITDA and return on invested capital, per the Ennis struc
 
 ---
 
+## Note: where IT should sit
+
+At ~$50M revenue there is no case for a CIO. IT is typically one manager plus a technician, or an outsourced MSP for infrastructure with one internal ERP/MIS analyst. The reporting question is genuinely contested in printing, and there are three models:
+
+**IT under Finance** — the most common placement at this revenue, and the recommendation here. The ERP is the system of record for orders, costs, and financials; Finance is the discipline that handles vendor contracts, capital justification, security, and compliance. The risk is that operational and prepress needs queue behind month-end close.
+
+**IT under Operations** — defensible in printing specifically, because the MIS *is* the manufacturing workflow: order entry, estimating, scheduling, job tickets, shop-floor data collection, prepress workflow, color management, web-to-print, customer EDI. The users are overwhelmingly in Operations. This placement gets stronger if label growth is the strategy, because label volume means far more orders at far smaller average size, and the CSR desk becomes the bottleneck long before the presses do — and that fix is order-entry automation, not headcount. The risk is that financial controls, reporting integrity, and security get less attention.
+
+**IT under the CEO** — justified only during a full ERP replacement, and over-structured otherwise at this size.
+
+**Recommendation:** IT reports to VP Finance, with a written charter giving VP Operations priority-setting authority over operational modules — order entry, estimating, scheduling, prepress, EDI, web-to-print — and a jointly owned ERP/MIS roadmap reviewed quarterly. Revisit if an ERP replacement gets scoped, which changes the answer for the duration of the project.
+
+Same logic applies to **HR**, which has no owner in a four-person executive team. Parked under the CEO here. A five-plant manufacturer with union exposure and an active integration warrants at least an HR manager; if that hire happens, Finance is the more common home than Operations.
+
+---
+
 ## Sources
 
 - Chief Executive Research, *CEO and Senior Executive Compensation in Private Companies 2024-25* — executive summary copy in this folder: [`Chief Executive Research - Private Company Executive Compensation 2024-25 (Executive Summary).pdf`](./Chief%20Executive%20Research%20-%20Private%20Company%20Executive%20Compensation%202024-25%20%28Executive%20Summary%29.pdf) ([original source](https://chiefexecutive.net/wp-content/uploads/2025/01/2024-CEO-and-Senior-Executive-Comp-Report-Exec-Summary-1.pdf)). This is the free summary; the full report with revenue-tier, region, and ownership-type segmentation is a paid purchase from Chief Executive Group.
 - Ennis, Inc. [Form DEF 14A](https://www.sec.gov/Archives/edgar/data/0000033002/000119312514219733/d735519ddef14a.htm) and [Form 10-K FY2024](https://www.sec.gov/Archives/edgar/data/33002/000095017024057691/ebf-20240229.htm)
 - [Narrow Web Profile: Abbott Label](https://www.labelandnarrowweb.com/narrow-web-profile-abbott-label/) — customer service structure across multiple plants
 - [Narrow Web Profile: Discount Labels](https://www.labelandnarrowweb.com/narrow-web-profile-discount-labels/) — order volume and CSR model in short-run labels
+- Plant General Manager tier: [Plant Manager Salary Guide — pay by plant size](https://www.irecruit.co/guides/plant-manager-salary) and [Plant General Manager benchmark — Salary.com](https://www.salary.com/research/salary/benchmark/plant-general-manager-salary). Print-specific plant and production management roles: [Print Production Manager benchmark — Salary.com](https://www.salary.com/research/salary/benchmark/print-production-manager-salary)

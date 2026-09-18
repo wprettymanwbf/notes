@@ -84,9 +84,22 @@ Nobody is paid on a measure they don't control. Every role carries some EBITDA e
 **Reports to:** CEO
 **Direct reports:** Five Plant General Managers, customer service, purchasing, logistics, prepress, quality/safety
 
+### Lean is the core of this role
+
+Lean/TPS is Wise's operating system, not a program the VP sponsors. Deploying it across all five plants is the primary means by which every other measure below gets hit.
+
+- Standard work and leader standard work — sustained, not launched
+- SMED and makeready reduction: the highest-leverage lever in high-mix, low-volume printing
+- Daily management, visual controls, root-cause problem solving, kaizen
+- Throughput-focused constraint thinking — fix what actually limits lead time and capacity
+- Pilot, prove, standardize, deploy: one plant first, then the network
+- Build GMs and supervisors who improve the work instead of firefighting it
+
+> **Lean is measured by results, not activity.** It has to show up in throughput, lead time, productivity, quality, and profitability — never in a count of completed kaizen events.
+
 **Owns**
 - Manufacturing performance across all five plants, led through the GMs
-- One Wise manufacturing system: standard work, daily management, Lean deployment, problem solving
+- One Wise manufacturing system — common standards, with local flexibility only where product, equipment, or customer requirements genuinely differ
 - Customer service and order entry — quote and order turnaround, order accuracy, service responsiveness
 - Estimating, scheduling, and job release
 - Purchasing, supply chain, and inbound/outbound logistics
@@ -105,6 +118,7 @@ Nobody is paid on a measure they don't control. Every role carries some EBITDA e
 - Quote and order turnaround; order accuracy
 - Makeready time and labor productivity
 - Waste, scrap, and quality
+- Lean maturity and demonstrated problem-solving capability, plant by plant
 - Recordable safety incidents
 - Label/packaging capacity and capability milestones on schedule
 - GM performance and bench depth
@@ -205,6 +219,8 @@ Margin realization is weighted heavily on purpose: it stops the plan from reward
 | Label & packaging capacity and capability milestones | 25% |
 | EBITDA vs. plan | 20% |
 | Safety, waste/quality, Lean deployment, GM bench | 15% |
+
+Lean sits at 15% deliberately, not higher. The 40% operating-performance line *is* the Lean measure — if the system is working, throughput and lead time move. Paying a large weight for Lean deployment directly would reward the activity instead of the result.
 
 **VP of Finance — target 25% of base**
 

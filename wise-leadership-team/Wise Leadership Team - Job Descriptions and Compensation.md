@@ -249,7 +249,7 @@ Tie 60% to cumulative EBITDA and return on invested capital, per the Ennis struc
 
 ## Sources
 
-- Chief Executive Research, [CEO and Senior Executive Compensation in Private Companies 2024-25, Executive Summary](https://chiefexecutive.net/wp-content/uploads/2025/01/2024-CEO-and-Senior-Executive-Comp-Report-Exec-Summary-1.pdf)
+- Chief Executive Research, *CEO and Senior Executive Compensation in Private Companies 2024-25* — executive summary copy in this folder: [`Chief Executive Research - Private Company Executive Compensation 2024-25 (Executive Summary).pdf`](./Chief%20Executive%20Research%20-%20Private%20Company%20Executive%20Compensation%202024-25%20%28Executive%20Summary%29.pdf) ([original source](https://chiefexecutive.net/wp-content/uploads/2025/01/2024-CEO-and-Senior-Executive-Comp-Report-Exec-Summary-1.pdf)). This is the free summary; the full report with revenue-tier, region, and ownership-type segmentation is a paid purchase from Chief Executive Group.
 - Ennis, Inc. [Form DEF 14A](https://www.sec.gov/Archives/edgar/data/0000033002/000119312514219733/d735519ddef14a.htm) and [Form 10-K FY2024](https://www.sec.gov/Archives/edgar/data/33002/000095017024057691/ebf-20240229.htm)
 - [Narrow Web Profile: Abbott Label](https://www.labelandnarrowweb.com/narrow-web-profile-abbott-label/) — customer service structure across multiple plants
 - [Narrow Web Profile: Discount Labels](https://www.labelandnarrowweb.com/narrow-web-profile-discount-labels/) — order volume and CSR model in short-run labels
